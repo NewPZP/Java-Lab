@@ -1,5 +1,6 @@
-package io.github.newpzp.design.abstractfactory.app;
+package io.github.newpzp.design.abstractfactory;
 
+import io.github.newpzp.design.abstractfactory.app.Application;
 import io.github.newpzp.design.abstractfactory.factories.GUIFactory;
 import io.github.newpzp.design.abstractfactory.factories.MacOSGUIFactory;
 import io.github.newpzp.design.abstractfactory.factories.WindowsGUIFactory;
